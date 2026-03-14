@@ -230,8 +230,7 @@ cite{
 --------------------------------------------------------------- */
 .btn:hover{
   background-color: #f39c12;
-}
-.btn{
+
     transition: all 0.3s ease;
 
 }
